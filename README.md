@@ -11,3 +11,4 @@ Below is a software called Lipsync Pro - there is also a free version as far as 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hmfj6J9-swc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[<img src="https://img.youtube.com/vi/hmfj6J9-swc/maxresdefault.jpg" width="50%">](https://youtu.be/hmfj6J9-swc)
